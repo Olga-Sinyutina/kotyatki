@@ -6,6 +6,7 @@ public class Main {
         catSuit.printColorSuit();
         catSuit.setColorSuit("White");
         catSuit.printColorSuit();
+        System.out.println("Meow-meow-meow!");
     }
 
 }
